@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Natan Matos",
+      "email": "njmatos21@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria da Silva",
+      "email": "msilva@utlook.com"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Juiz de Fora"
+    },
+    {
+      "id": 2,
+      "name": "Maripá de Minas"
+    },
+    {
+      "id": 3,
+      "name": "Bicas"
+    }
+  ]
+}
